@@ -1,5 +1,13 @@
 main {
     width: 100%;
+    color: white;
+}
+
+h1 {
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
 }
 
 .div-1 {
@@ -13,10 +21,12 @@ main {
     width: 200px;
     height: 200px;
     background-color: red;
+    display: inline-block;
 }
 
 .div-3 {
     width: 200px;
     height: 200px;
     background-color: blue;
+    display: inline-block;
 }
