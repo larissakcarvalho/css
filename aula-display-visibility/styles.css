@@ -1,0 +1,22 @@
+main {
+    width: 100%;
+}
+
+.div-1 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    display: inline-block;
+}
+
+.div-2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.div-3 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
